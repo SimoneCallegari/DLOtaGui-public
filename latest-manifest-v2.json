@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T19:31:26.468518+00:00",
+  "generatedAt": "2026-03-10T17:28:02Z",
   "source": "jfrog+azure",
   "schemaVersion": 2,
   "entries": [
@@ -114,14 +114,14 @@
         "Joya Smart+"
       ],
       "androidVersion": "13",
-      "version": "1.24.002.20260127s",
+      "version": "1.23.009.20260127s",
       "artifactType": "ota",
       "gmsType": "gms",
-      "fileSize": 2018629881,
-      "sha256": "c49e21e39d9c3b50ad8b97bcd4b68d099bf3464925cd08f7121c263d637cc2ae",
+      "fileSize": 2018586375,
+      "sha256": "",
       "legacy": false,
-      "cdnUrl_enc": "PabbVLlJcnJZO1Er65vg0y6JeOOeVTxn5+zTPpAbutvP+CN7+0YUajYkmE2d9Nemc6pdLd+M4aS30eaSqV8s9Gh4U84Ci+/vTwLD/8NkQB3B8ItUE+CYoyMzCf9Z4vmt5CSuPLZdotq0DEdIM0sEr+52r37Hav27hASMUB37dEnMEyk06g08fBIDt+/keXVqmCNRih2c7Dp4L8eA7Ga57xeDnRhQLDnhi5FRTgr0Dx3WJIO8kTE6",
-      "cdnUrlVerified": false,
+      "cdnUrl_enc": "smcQtNOJGdkflcdWV+L8QCrhUKTrfpzIsui8SWtFkX5G6cfirHLXu7+DVqayffepWS17kimKs4cxMrL8B2AvqrwkXnqg0U/QyUziAc5SqQpkJZg5aCxLFW0Rmo2RqBLK4/Y2h7RqMwawOTHus1fcTAjZa1bncfUMACB3uk7wKz+ciwDN5324Xnwc4cmePtRWzFIqlpan9F/Ei9y51Tdvaiv2/IKKQfcjx/Rd89pGEhTq2t8nRZRI",
+      "cdnUrlVerified": true,
       "previousCdnUrl_enc": "xcexi2Wy35y5BxwOIVmr+dFL70rCxupxZvZ0PcilwxAAEjGhA7mS7kBR+xxoo9XUArptXahNO/DL+5QoVWD8WlVFcZN0D50Lh1t9BU0JFyG3qVS9MGPNNZFh4N+XaA2c7ov1tBBn5V/qIIBOx1KQbQLu+h31MpV3ghN7WBKT/ZqkUOP4Z9YFuMtLppw1LDIvdbcceJ6Q1H0r3+h2QULGGfaH3a5Oo4PKnhE1ZUWip/8iZtU/FAvS"
     }
   ],
