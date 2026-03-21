@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-03-10T21:16:37.046705+00:00",
-  "source": "manual-patch",
+  "generatedAt": "2026-03-21T01:54:39.694196+00:00",
+  "source": "jfrog+azure",
   "schemaVersion": 2,
   "entries": [
     {
+      "buildName": "mob-m11",
       "models": [
         "Memor 11"
       ],
@@ -14,10 +15,12 @@
       "fileSize": 1589490247,
       "sha256": "279052d33f10355084cfef593112112bd68068782ba13afe502b0d17255093a4",
       "legacy": false,
-      "cdnUrl_enc": "fNp3Hi+2wAeZnzEChwJfZHKCmCeSQZLk1A/TT8XF2dmQTBD1wC2dQwRnHKTspN4StuBJ8yzP79iY7RDgy37LFw4In83k1SFKoYcm8+dJM/51dsnRkbp++wY4rqzHJzx7kqYnOIWv9EaTQHwPLTap3aDrCG6J/7wYndIWRKPGYnKaeDy06lcOJ0sgMUZyEXvSirgeLBELAoEzdv4sRrPWPCgbUF42W71GCQ==",
-      "cdnUrlVerified": true
+      "cdnUrl_enc": "JSPe1J8EIc/I6eLtMqAOY2Wyjshaw8JfB5/A+vHKChgJYYIlwStNSnzHOulrhUCKZQvdpXLdVHOTc0gi2+GoX08QL4nH7bxhSAl3WJNAEO1oM8vWXdunI5STTG2GBGsKeu9IvjxbCPVugXyP0KLvjmwZXPl/QxkQ3PRasMey4eaFx0ADFTBc31FdQ9zFqTI0BXs3TREqzPpHWdjGsYPcXS+vbRGb7jF++Q==",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "gF1skUlq8tGCGwx2AbGv6YxAB37JsSQSk+VSuH0AEQXQlmXdo1r0eEG44ed8NCf55Yn+nY3/xAKW2RiJeZAoc4KHvtnGrDwQyq14HKxfMsukaCNhZtYeTGv6WlvJPQ+9VI5KtM5x3M+PqoV1jAgWvyKFpGq9CgK5rDGtgLMOk+45IihuWKNTN/Ften2Tkc4hC9gKAid7s/mg1dsxd4RgKRu1lK4Bg8CIhg=="
     },
     {
+      "buildName": "mob-m20",
       "models": [
         "Memor 20"
       ],
@@ -28,10 +31,11 @@
       "fileSize": 1703359833,
       "sha256": "6f419bcf129bf2cf9cd95cfcaa0447395c554510e04bfa8263ee351a2374338d",
       "legacy": false,
-      "cdnUrl_enc": "4G4G8lRehr1aXtrEZ+G1CAvQbHx72Wl04hYTT1PY2usSy9PBEMaVOR96BAAg+1IZMSc524aIknhyYt8DgUnp7XDH+sIVjOZD0+QorZjxftxWLxT3S9wuAQzW5imtoXqUwPRWbfbhPPASZN1y7Zyak6MuBrGKkjJvxpaoDh4rb5+5Iub7VhzovUYuJ5GxCXSVGvxvjb5/OhZFsAjV99ZIMMa75z8Ev88+",
+      "cdnUrl_enc": "ygOC0clC1KKetGD/108nuj6a0gs0zwLhmDfxs5BdywgwI8dMJ22bf4/UhBkNhIA6k6F54PluYJt/QjOh/WtvvKNUatYAvYg4lWjS1zj6CDNRd5uUQEY1C9mVxSI13rxyYPNa2D91PcZGs2WcMXDf9xD7Qfw708RP0z6f1oIW8lp9tF+eK+lO1cCa8RuL15q/7o88EC9CGhXuze40/7BRn1BIhd2F/DAp",
       "cdnUrlVerified": true
     },
     {
+      "buildName": "mob-sx5",
       "models": [
         "Skorpio X5"
       ],
@@ -39,13 +43,15 @@
       "version": "4.08.002.20250926s",
       "artifactType": "ota",
       "gmsType": "gms",
-      "fileSize": 1596859078,
-      "sha256": "",
+      "fileSize": 1596498091,
+      "sha256": "4c41b923ae3c2563cc424f29ce27ac4c03b715f8c3b6ad2c93894ad66ca5dd1d",
       "legacy": false,
-      "cdnUrl_enc": "M2lWlvcNv/F8rlHBwOGqNvVE/OKRnIW9WWWz3FW8WtWV04pFyjSOT6k2qa2nFuodjAN0PFDD/S8PtXlHUU8ys6PVuOP1P8gUC/DXf6XMNibcsnuWtY+ohOCJgYikkYj2vKxnFS+vCSEYQ3gPh1Hs/jSA/J+5WzsGhzdFdUrENgq9oE2DGaNGSaZa8T3Ap6TN9/QI2OD7gOtb5MNGTRgF+U1Ehz6nNll/t5qf145S/P+UU71a2K2eocKPtbMMwqkX2A==",
-      "cdnUrlVerified": true
+      "cdnUrl_enc": "Hzq80c3+HdS4SXa8co0BtbAFeL5yrC6Ke9IEqznsuVuO5clXfo6SXV6r2w4ezblFpwumugflE0AntkSHe2jVGBfMAObhy4QgOfUIGWXVbtcgutsyci8VhtFXJAA76Tny6sPSEU1g/wt1YYErzvfrghpZ3e0DZse4mipDg7BBBDiuay9jza5UXBupudvnkm8mLI15e+ELaDnr9YlOdispEcGiJFA2L4mBgDok4Rx/G+UWXBu3GU5KyCR7udYkSuEdoA==",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "83Vm7KatOCQ8MCFvUPzc0PNnWIRztHfGraxZbrStdn4hLAJjnvQMWR4MzNdbVL8q3TAQYyQHaOwnAXUXMUFAQusmV+OLhCKYD3HR2qvupvt7j2z+ylAbXGccJWgSdZRGkRS4JYG1lKWhnW9DApPkDxabm7XQOcl5TaBU8NHJ6GUAhkc8ckuQmuqyqSARtX3I8qZ5ni7JbxYzeRXzf1m3KiGMymlt29vZe5zzbynNHSOnFfsqFJCOmk4pLy6/jy7R3w=="
     },
     {
+      "buildName": "mob-jt22",
       "models": [
         "Joya Touch 22"
       ],
@@ -56,10 +62,11 @@
       "fileSize": 1574778437,
       "sha256": "955092c0fc9addfcf2544636cc16c85a1a863009e8acb38fa97210059c898b9c",
       "legacy": false,
-      "cdnUrl_enc": "OzcSefjHJ2vDJn4qdZjLsYSI1RmCw8nO//B5ClPWXwX8j/kyRjePKNIHGP1VVwIELOkOjNwTNou0CC9TfBSbIRifYRvA/iAjzD9NTahqxRgIaCpT7cQvmui/pdCWOe1yOE0XlJcW2sXCR2o3BuoEJzmKliTPaHUj3OROfMqhmbQLtPMIkQLPCZhyn3BqWm9LbCT9cYc50i9QcQTyAobfYYGvCk1SBSehOUVPyy/6sY0l3YfXQmJLbnIEo3Dcag==",
+      "cdnUrl_enc": "fMpokMfaGscpKf8KVH+yBqqSdky6R5BpiOGC8NBR1zNdqSQeQlpmaVCfdWpv9G1wGncymB8+sa5qyHArF0JJVIEYjVVNqk1Fp4ZYSlt7e3Q5FWkPozFEBgsPxzrjU3VQJh67z4wEFc/ijLDBVQdBbk+S+gyUaF3O+jo9KerfB71RxTsgIRWzQNe8wHidYiJnB+/8ZOWFnGNInuFCksP7Tnl7m1Ra+GHFddfVnmK8dbNeaUIXWAiIqdXr15MfhQ==",
       "cdnUrlVerified": true
     },
     {
+      "buildName": "mob-mk2",
       "models": [
         "Memor K20",
         "Memor K25"
@@ -68,13 +75,15 @@
       "version": "1.03.08.20251207",
       "artifactType": "ota",
       "gmsType": "gms",
-      "fileSize": 1730340977,
-      "sha256": "",
+      "fileSize": 1730770100,
+      "sha256": "bd2605ba213720e18f8e0d339a1edf99fc31ce4a41023d77e58134d32d1c3d86",
       "legacy": false,
-      "cdnUrl_enc": "d2IHv2DxKP98UJEb/SqHSRA+RR/OMHsNX9/GftyRrTS7Xdp9dDeazrrV0E+qye2k22eVhkWr9U6RYvjGn9HnUBF9j2bDGYFutMEHSq6v38E2liBKsQiLJlnXNGdH0xuzL/vryWqr9GyGbYpBH6evuLrLOvrPlujnRRoRZDQSFgsoip1XvIP6KI8NCcgB00PEloQVya9nUvE6S7sKsFdHYEga3mw/sMuGYI7DcF0=",
-      "cdnUrlVerified": true
+      "cdnUrl_enc": "M/HxD+yctlJhEbIk9W9fTtr8rlOYROsZmBDmKpuIsowDxsMOocgxzH1s9xHhj429lqxABhBN/dOAJgqkJZ0Jtw8f+M2m8Dimr81v8DllxOlTPF5J1Ux27TDACvWMvemCt3mHIxNl92QSM8aMd4B3aZLGYqKTnCB4WHVvlqCDVnc1CtWdUPkuSoP3ScKPLupoSjTs+pK2v0XgJjlUHaDZ/3lJ3APXNmnsv/o+Is8=",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "C+/LGGsS30I17ccYRWfL/klXtJZHSx5rCrCxjztMrS0WOQ6X4uDXyWH845MjGP2+1kwMPg/g4ez6O2UnJTLxzxBvBUZEHFmR5LGswiEQ7hs08XW5/GhgJMwHKWQLqBr3S4Snr5FwGSaosgN9IDJzonENoRtloo9j54rKOz8EJb0hfKO/Miwdczraa+0qHdxS8gMG3iWTarf4repmebQ0sKwdmhmmgeQEk2dK3Mlr"
     },
     {
+      "buildName": "mob-dl4490",
       "models": [
         "Memor 12",
         "Memor 17",
@@ -84,16 +93,18 @@
         "Joya Smart+"
       ],
       "androidVersion": "15",
-      "version": "3.16.008.20251216s",
+      "version": "3.22.001.20260211s",
       "artifactType": "ota",
       "gmsType": "gms",
       "fileSize": 2240257441,
-      "sha256": "",
-      "legacy": false,
-      "cdnUrl_enc": "A6bNXWSjor4HBUr2lAkt/eomd3goghxHiGWW4JvbUpEuamxLRnMvSYBulQ4iQa8JtnwczIR+rkjHzw52ClkZwpXhd1CwCTtbfZCdzOKAQYC/CW3esfoKTn6Cw26/mc1py9JeF60zXbkwqroZqUb7/qtUPEoso9+gHJL5pExOUG8mw1lo1ONO2XHoGRBga4PfeewnwPJTcTB8i866artzjnNviSvfGxeXrA4luvasErdMlC3HcndE+77s3Pvhsf19srf6ppa0JQ==",
-      "cdnUrlVerified": true
+      "sha256": "d7a6fe98f9c57f57bd652ab206ad67ab8b099bbbfd11ee8d92de19e9ba4443e6",
+      "legacy": true,
+      "cdnUrl_enc": "4a54mtpLURElK0V1k+TH+eQdHD/J4GMQvQnllCAAkNl/6pwEh/CYd6QG0gfb1Chkva7dx4ixTT5C85EnX2CAdJwlM/Z2BmSjjEAxKL7zQLdLgueiPClJRtItT7LNgQd+QWWYaClqwQd51P2RHIOYim6jpW3GP2J2wbwfVtIEO5dMaOgfnMJCx+FhOYEANwiPXYe6bqU/TmYRLDF5AlsnBUuv951Bt9io+I10ZprxevSgedbtzPY7Gl52ktYsufO5HehyI2p3vw==",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "Nwfpa5G7JiB/9eVcq1kCghcNo7wFHXuEXX66xyuSklzVcSppZwXthSoos1UzEtWGn3puS4r6nFcrjLzCuTF4hx3w4bGVctU5l1k/XMicN5gaR3Uf7+qQH+NO5G6EPww4hmiH57350M9pg3CCxK4rOGpiNIvWdb+Msu5urG6qqq/oP/oSeKbmiNwORjkNNU06snGbxypj7hN2958039Z3dpik6Z2+tYm+uCB6Jip+zyNjTXnrpbAAIT/l3tjlS4+VSvLdHkL++w=="
     },
     {
+      "buildName": "mob-dl4490",
       "models": [
         "Memor 12",
         "Memor 17",
@@ -107,10 +118,61 @@
       "artifactType": "ota",
       "gmsType": "gms",
       "fileSize": 2018586375,
-      "sha256": "",
-      "legacy": false,
-      "cdnUrl_enc": "IhpVbIam+NsGQ6epp+oqb3erzkVZlQ7C+ormUNWPZ+CGoaN6RnE58blF5JtnwlhSN2PdIM25TuaQgmgCpPxSF1m/Jgbi92E9ee1zVoiokb98DRwHPIe97HWh/avr6HYdz28yHLrM8J2zT+anJK43R82pv1sGlzgoJ3+Jhqv0I9MVMGImBFIUlEltHKRRMdpop/okq4l5x2BWCf1yVvJBZLnnrmNulY/LAwtw58FMJtP8YduZ4F4R",
-      "cdnUrlVerified": true
+      "sha256": "88150a932dd2822bd3ec81b849cc6ef713ac94b974150e2725c7e092ae1c7f1b",
+      "legacy": true,
+      "cdnUrl_enc": "HsDfFoJtlPoiCJFbGQkY87mQJ8eGjfmudG8bvqJ6O9sb44E8Ff8/ArGKJFFLo5aw8yl3aMoSBYvSL9QQ7rBplYdgYXiBkTSJ2UIDj29B6I+t9pUIIEx2HZHa7Gnqv2yO9UlACVj1A4DO3XnwyFXFpRK8MYY0WwMvR09/T4xBo0jnx8k1MUHkvFX0Q0VpdKjssCUlw9EzIDbDi0uE1Wk6u3Aqat1HsF0pgNgj0UCEcAoj0DasvoG0",
+      "cdnUrlVerified": true,
+      "previousCdnUrl_enc": "SNc4LcsZLqzF2201po8ryzHTzlaUfjPIZcHQ5cqyhKTaoGe3IzagUQ3+0fOfnCZ57lQ8/jeViKIpbuvjvrVPk/FJdW5Ul81xVjWY0MjPhaO30wIa5VUJqqRJAqqIPP9rvEHPWSU/GPOvQfPxM1g1SztpkKpHTKlrTmyfEw4asOmPXi8h7b62Glr6zkj7hp97mAl/svYvXaLPv7MMgRNXKLoef6Zlto2uBREvwhdeiRQLsaiCAFW7"
     }
-  ]
+  ],
+  "deviceModels": {
+    "mob-dl4490": {
+      "adbModels": [
+        "Memor 12",
+        "Memor 17",
+        "Memor 30",
+        "Memor 35",
+        "Joya Smart",
+        "Joya Smart+"
+      ],
+      "verified": false,
+      "note": "da verificare con ro.product.model"
+    },
+    "mob-m11": {
+      "adbModels": [
+        "Memor 11"
+      ],
+      "verified": false,
+      "note": "da verificare con ro.product.model"
+    },
+    "mob-m20": {
+      "adbModels": [
+        "Memor 20"
+      ],
+      "verified": false,
+      "note": "da verificare con ro.product.model"
+    },
+    "mob-mk2": {
+      "adbModels": [
+        "Memor K20",
+        "Memor K25"
+      ],
+      "verified": false,
+      "note": "da verificare con ro.product.model"
+    },
+    "mob-sx5": {
+      "adbModels": [
+        "Skorpio X5"
+      ],
+      "verified": false,
+      "note": "da verificare con ro.product.model"
+    },
+    "mob-jt22": {
+      "adbModels": [
+        "Joya Touch 22"
+      ],
+      "verified": false,
+      "note": "da verificare con ro.product.model"
+    }
+  }
 }
