@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T02:55:22.695866+00:00",
+  "generatedAt": "2026-01-01T00:00:00+00:00",
   "source": "jfrog+azure",
   "schemaVersion": 2,
   "entries": [
@@ -9,7 +9,7 @@
         "Memor 11"
       ],
       "androidVersion": "13",
-      "version": "2.14.29.20260113s",
+      "version": "2.14.28.20260101s",
       "artifactType": "ota",
       "gmsType": "gms",
       "fileSize": 1589490247,
@@ -93,7 +93,7 @@
         "Joya Smart+"
       ],
       "androidVersion": "15",
-      "version": "3.22.001.20260211s",
+      "version": "3.16.008.20251216s",
       "artifactType": "ota",
       "gmsType": "gms",
       "fileSize": 2240257441,
